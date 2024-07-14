@@ -1,0 +1,16 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar input {
+    width: 200px;
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  .search-bar button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
